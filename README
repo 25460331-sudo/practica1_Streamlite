@@ -1,0 +1,24 @@
+# Hola Mundo con Streamlit
+
+Esta es mi primera aplicación web construida con Python y Streamlit. Es un proyecto introductorio para aprender los fundamentos de esta librería.
+
+## Descripción
+
+El proyecto consiste en una aplicación web simple que demuestra las capacidades básicas de renderizado de Streamlit, incluyendo:
+- Títulos y subtítulos.
+- Bloques de texto explicativo.
+- Mensajes de estado (Success).
+
+## Requisitos
+
+Para correr este proyecto necesitas tener instalado:
+- Python 3.7+
+- Streamlit
+
+## Instalación y Ejecución
+
+1. **Clona el repositorio o descarga los archivos.**
+
+2. **Instala las dependencias:**
+   ```bash
+   pip install streamlit
